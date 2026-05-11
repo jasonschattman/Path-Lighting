@@ -1,6 +1,7 @@
 //I just hacked your code, ha ha!
+//I just undid your hack, demon! HA Take that!
 
-print("I wuz here!");
+print("You were here but no longer!");
 
 void mouseClicked(){
   
