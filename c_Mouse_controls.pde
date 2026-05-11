@@ -1,3 +1,7 @@
+//I just hacked your code, ha ha!
+
+print("I wuz here!");
+
 void mouseClicked(){
   
   //Checks to see if any of the lamp bulbs was clicked...
